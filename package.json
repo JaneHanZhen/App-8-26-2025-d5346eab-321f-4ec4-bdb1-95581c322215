@@ -1,5 +1,5 @@
 {
-  "name": "rn_starter_template",
+  "name": "math_is_fun_app",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -23,7 +23,9 @@
     "react-native-screens": "~4.11.1",
     "react-native-web": "~0.20.0",
     "expo-dev-client": "~5.2.4",
-    "expo-updates": "~0.28.17"
+    "expo-updates": "~0.28.17",
+    "expo-linear-gradient": "~12.7.0",
+    "@expo/vector-icons": "^15.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
